@@ -23,8 +23,8 @@ Fundamentals CSS
 * Transition
 
 Resources and Libraries
-https://fontawesome.com/v4.7.0/get-started/
-https://fonts.google.com/specimen/Roboto?query=roboto&sidebar.open&selection.family=Roboto
-https://uigradients.com/#SeaBlue
+* https://fontawesome.com/v4.7.0/get-started/
+* https://fonts.google.com/specimen/Roboto?query=roboto&sidebar.open&selection.family=Roboto
+* https://uigradients.com/#SeaBlue
 
 
